@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @tripti140]
-- 👀 I’m interested in c/c++
-- 🌱 I’m currently learning DSA and software engineering.
+👋 Hi, I’m @tripti140
+👀 I specialize in automation testing, test frameworks, and quality assurance.
+💼 With extensive experience in creating and maintaining automated test scripts, I work with tools like Selenium, JUnit, and TestNG.
+🌱 Currently focusing on enhancing testing strategies, integrating CI/CD pipelines, and exploring new automation tools.
 
 
 <!---
